@@ -5,4 +5,6 @@ body {
 p {
   text-align: right;
   color: dark green;
+  font-family: times new roman;
+  font-size: 39px;
 }
