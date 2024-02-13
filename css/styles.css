@@ -5,6 +5,7 @@ body {
 p {
   text-align: right;
   color: dark green;
-  font-family: cursive;
+  font-family: brush script MT;
   font-size: 39px;
+  font-weight: bolder;
 }
